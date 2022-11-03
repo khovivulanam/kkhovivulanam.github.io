@@ -21,6 +21,9 @@
 .fContainer{
     background-color: rgb(8, 97, 169);
 }
+.nav-div{
+    display: flex;
+}
 .navbar{
     z-index: 90;
     position: fixed;
